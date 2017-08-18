@@ -62,7 +62,7 @@ Diğer bir yaklaşım ise, belirli adımlar sonucu oluşan kümelerdeki elemanla
 
 *K-Means Akış Diyagramı* +
 
-image::https://github.com/ak-means/yontemlerrjjhhjhj.jpghmeterdem9603/k-means_kumeleme/blob/master/aksddf.PNG[R]
+image::https://github.com/ahmeterdem9603/k-means_kumeleme/blob/master/aksddf.PNG[R]
 
 *Phyton dilinde K-Means Algoritmasının Kodu* +
 
