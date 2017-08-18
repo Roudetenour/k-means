@@ -18,7 +18,7 @@ Kümeleme analizi istatistik, biyoloji, uzaysal veri madenciliği ve makine öğ
 == Kümeleme Yöntemleri +
 Kümeleme yöntemlerinin ağaç diyagramı şu şekildedir ; +
 
-image::https://docs.google.com/drawings/d/19vPhpTUFBUdDFjM71bzH1EhhroJUpPLQUqdj4B37DIE/edit
+image::https://github.com/Roudetenour/k-means/blob/master/yontemlerrjjhhjhj.jpg
 
 == K-Means Kümeleme Algoritması +
 
